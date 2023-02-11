@@ -1,5 +1,6 @@
 My resolution of 2023:
 1. Learn Git and Github vor Version Control System
-2. Learn Stramlit or Dash for a quick creation of web-based content
-3. Learn FastApi for back-end development
-4. learn Flutter or Flask for front-end development
+2. Full-stack web development:
+    -Learn Stramlit or Dash for a quick creation of web-based content
+    -Learn FastApi for back-end development
+    -Learn Flutter or Flask for front-end development
