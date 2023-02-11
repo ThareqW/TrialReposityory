@@ -1,0 +1,7 @@
+1. Git and GitHub
+2. Web-development:
+    - Flutter
+    - Flask
+    - Streamlit
+    - Dash
+3. Machine-Learning
