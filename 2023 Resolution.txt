@@ -3,5 +3,5 @@ My resolution of 2023:
 2. Full-stack web development:
     -Learn Stramlit or Dash for a quick creation of web-based content
     -Learn FastApi for back-end development
-    -Learn Flutter or Flask for front-end development
+    -Flask for front-end development
 3. Learn Machine Learning for data science -> This would be the main focus for the content of the web that I will develop.
